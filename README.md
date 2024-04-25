@@ -22,8 +22,8 @@ The provided graph displays the counts of preexisting heart disease for people i
 
 # Acknowledgements 
 
-Original data represented in this repository was found on Kaggle.com
+Original data represented in this repository was found on [Kaggle](https://www.kaggle.com/datasets/harshwardhanfartale/cardiovascular-disease-risk-prediction-dataset) an excellent source for various types of data.
 
-Visualization for this data was created with Tableau, a free, excellent software useful for data manipulation and visualization.
+Visualization for this data was created with [Tableau](https://www.tableau.com/), a free, excellent software useful for data manipulation and visualization.
 
-The Instructional python notebook was created with Google Colab.
+The Instructional python notebook was created with [Google Colab](https://colab.google/).
