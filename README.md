@@ -1,7 +1,7 @@
 # Cardiovascular Disease Indicators Repo
 This a repository containing instructional information and a public dataset for potential use by Cardiovascular experts and practitioners.
 ## Contents and Source
-Included within this repository is a Python notebook, explaining how to develop a subset of Cardiovascular Risk data from a raw .csv file using Python3.
+Included within this repository is a Python notebook,Data_Compilation_method.ipynb, explaining how to develop a subset of Cardiovascular Risk data from a raw .csv file using Python3.
 - In order to use this python notebook it will require the "Google Colab" software.
 
 It will contain two different .csv files, found in the Data folder:
