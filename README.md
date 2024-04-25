@@ -16,7 +16,7 @@ As with many other diseases, medical professionals and researchers strive to dis
 
 
 Part of the subset, general health, and preexisting heart disease can be displayed like so:
-![alt text](https://github.com/oudeeee/Factors-affecting-Cardiovascular-Disease/blob/main/Screenshot%202024-04-22%20120025.png?raw=true)
+![alt text]("C:\Users\Ohbee\Pictures\Screenshots\Screenshot 2024-04-22 120025.png")
 
 The provided graph displays the counts of preexisting heart disease for people in varying states of general health.
 
