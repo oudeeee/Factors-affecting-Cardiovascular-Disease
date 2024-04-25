@@ -18,3 +18,11 @@ Part of the subset, general health, and preexisting heart disease can be display
 ![alt text](https://github.com/oudeeee/Factors-affecting-Cardiovascular-Disease/blob/main/Screenshot%202024-04-22%20120025.png?raw=true)
 
 The provided graph displays the counts of preexisting heart disease for people in varying states of general health.
+
+# Acknowledgements 
+
+Original data represented in this repository was found on Kaggle.com
+
+Visualization for this data was created with Tableau, a free, excellent software useful for data manipulation and visualization.
+
+The Instrctional python notebook was created with Google Colab.
