@@ -6,7 +6,7 @@ Included within this repository is a Python notebook, Data_Compilation_method.ip
 
 It will contain two different .csv files, found in the Data folder:
 
-1.Raw CVD Data (2).zip contains factors that may contribute to the onset of cardiovascular disease ranging across various ages and general health conditions
+1. Raw CVD Data (2).zip contains factors that may contribute to the onset of cardiovascular disease ranging across various ages and general health conditions
 
 2. _80_plus_subset.csv contains data referencing the same risk factors but is specific to people in the 80+ age range.
 
@@ -26,4 +26,4 @@ Original data represented in this repository was found on Kaggle.com
 
 Visualization for this data was created with Tableau, a free, excellent software useful for data manipulation and visualization.
 
-The Instrctional python notebook was created with Google Colab.
+The Instructional python notebook was created with Google Colab.
